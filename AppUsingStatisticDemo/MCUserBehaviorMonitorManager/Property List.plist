@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>trackedPages</key>
+	<array>
+		<dict>
+			<key>className</key>
+			<string>ScrollviewImgViewTest</string>
+			<key>pageName</key>
+			<string>轮播页面页面</string>
+		</dict>
+	</array>
+	<key>trackedEvents</key>
+	<array>
+		<dict>
+			<key>className</key>
+			<string>ViewController</string>
+			<key>selector</key>
+			<string>textBtnClicked:</string>
+			<key>eventName</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>trackedTabBarEvents</key>
+	<dict>
+		<key>className</key>
+		<string>AppDelegate</string>
+	</dict>
+	<key>trackedTabBarSubVCEvent</key>
+	<array>
+		<dict>
+			<key>className</key>
+			<string>ViewController</string>
+			<key>pageName</key>
+			<string>主页面</string>
+		</dict>
+		<dict>
+			<key>className</key>
+			<string>HandsUpVC</string>
+			<key>pageName</key>
+			<string>举手页面</string>
+		</dict>
+		<dict>
+			<key>className</key>
+			<string>PersonalVC</string>
+			<key>pageName</key>
+			<string>个人页面</string>
+		</dict>
+		<dict>
+			<key>className</key>
+			<string>StudyVC</string>
+			<key>pageName</key>
+			<string>学习页面</string>
+		</dict>
+	</array>
+</dict>
+</plist>
